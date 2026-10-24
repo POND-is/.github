@@ -50,7 +50,7 @@ The POND Foundation "will be created to help build, nurture and cultivate this k
 - 💬 Discord: [discord.gg/kNvtcjPmJ7](https://discord.gg/kNvtcjPmJ7)
 - 🎙️ [PONDcast](https://www.pond.is/p/pondcast-weekly-meeting-for-the-pond): weekly meeting, Thursdays at 6:30 PM PT on Discord
 - 👽 Reddit: [r/PONDAI](https://www.reddit.com/r/PONDAI/)
-- 𝕏 Community: [POND Intelligence (AI)]((https://x.com/i/communities/1695429836993712389))
+- 𝕏 Community: [POND Intelligence (AI)](https://x.com/i/communities/1695429836993712389)
 - 📝 Medium: [POND Foundation](https://medium.com/pond-foundation)
 - 📄 Read: [POND: For a Human-Machine Intelligence Ecosystem](https://www.pond.is/p/pond-a-human-machine-intelligence)
 
