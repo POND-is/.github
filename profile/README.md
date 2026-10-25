@@ -40,6 +40,11 @@ In practice that means intelligence that starts with the person and runs on hard
 - [**awesome-pond**](https://github.com/POND-is/awesome-pond): a curated list of open-source, local-first, personal and decentralized AI projects. Add yours with a pull request.
 - [**pond-principle**](https://github.com/POND-is/pond-principle): the POND Principle text, open questions and [community Discussions](https://github.com/orgs/POND-is/discussions).
 
+## On Hugging Face
+
+- 🤗 [**POND-is on Hugging Face**](https://huggingface.co/POND-is): open models, datasets and Spaces for personal, on-device intelligence.
+- 🧰 [**POND Starter Kit**](https://huggingface.co/collections/POND-is/pond-starter-kit-open-models-for-your-own-hardware): 13 open models for chat, code, vision, speech and memory that run on your own hardware. Suggest additions in [Discussions](https://github.com/orgs/POND-is/discussions).
+
 ## The POND Foundation
 
 The POND Foundation "will be created to help build, nurture and cultivate this kind of ecosystem—not to own or control it," acting as "a gardener, convener, connector, and steward."
@@ -51,6 +56,7 @@ The POND Foundation "will be created to help build, nurture and cultivate this k
 - 🎙️ [PONDcast](https://www.pond.is/p/pondcast-weekly-meeting-for-the-pond): weekly meeting, Thursdays at 6:30 PM PT on Discord
 - 👽 Reddit: [r/PONDAI](https://www.reddit.com/r/PONDAI/)
 - 𝕏 Community: [POND Intelligence (AI)](https://x.com/i/communities/1695429836993712389)
+- 🤗 Hugging Face: [POND-is](https://huggingface.co/POND-is)
 - 📝 Medium: [POND Foundation](https://medium.com/pond-foundation)
 - 📄 Read: [POND: For a Human-Machine Intelligence Ecosystem](https://www.pond.is/p/pond-a-human-machine-intelligence)
 
