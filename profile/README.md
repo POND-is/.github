@@ -38,7 +38,7 @@ In practice that means intelligence that starts with the person and runs on hard
 ## Repositories
 
 - [**awesome-pond**](https://github.com/POND-is/awesome-pond): a curated list of open-source, local-first, personal and decentralized AI projects. Add yours with a pull request.
-- **pond-principle** (planned): the POND Principle text and community discussions.
+- [**pond-principle**](https://github.com/POND-is/pond-principle): the POND Principle text, open questions and [community Discussions](https://github.com/orgs/POND-is/discussions).
 
 ## The POND Foundation
 
